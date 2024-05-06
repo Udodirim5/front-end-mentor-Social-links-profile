@@ -60,7 +60,7 @@ body {
   font-size: 0.8rem;
 }
 
-.container-inner h4 {
+.container-inner h2 {
   font-weight: 400;
   padding: 10px;
   font-size: 0.7rem;
@@ -75,7 +75,7 @@ body {
   background-color: var(--Dark-Grey);
 }
 
-.container-inner ul h5 {
+.container-inner ul h3 {
   padding: 8px;
   border-radius: 9px;
   background-color: var(--Grey);
@@ -86,11 +86,11 @@ body {
   font-size: 0.9rem;
   font-weight: 400;
 }
-    .container-inner ul h5:hover{
+    .container-inner ul h3:hover{
   background-color: var(--Dark-Grey);
   border: 2px solid var(--Grey);
 }
-.container-inner ul h5:active{
+.container-inner ul h3:active{
   background-color: var(--Green);
   color: var(--Off-Black);
 }
